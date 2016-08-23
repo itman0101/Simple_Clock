@@ -1,6 +1,9 @@
 # Simple_Clock
 
 
-a simple digital clock with html,css,js
+A simple digital clock with html,css,js
 
-by Akbar fardi
+By Akbar Fardi
+
+
+
